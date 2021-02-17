@@ -2526,3 +2526,11 @@ All effects don't start immediately, but rather get worse over time; the rate is
 	glass_desc = "A lovely fresh smelling cocktail, a true Sicilian delight."
 	chemical_flags = REAGENT_CAN_BE_SYNTHESIZED
 
+/datum/reagent/consumable/ethanol/chartreuse
+	name = "Chartreuse"
+	description = "You can't deny those hues: red, blue, chartreuse." //improve this description
+	boozepwr = 50
+	color = "#80FF00"
+	quality = DRINK_GOOD
+	taste_description = "this is what chartreuse tastes like" //improve this description
+
