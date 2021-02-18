@@ -2532,5 +2532,5 @@ All effects don't start immediately, but rather get worse over time; the rate is
 	boozepwr = 50
 	color = "#80FF00"
 	quality = DRINK_GOOD
-	taste_description = "this is what chartreuse tastes like" //improve this description
+	taste_description = "pungent herbal spice" //improve this description
 

@@ -643,5 +643,5 @@
 /obj/item/reagent_containers/food/drinks/bottle/chartreuse
 	name = "TEST Chartreuse"
 	desc = "Aah, chartreuse."
-	icon_state = "vodkabottle"
+	icon_state = "chartreusebottle"
 	list_reagents = list(/datum/reagent/consumable/ethanol/chartreuse = 100)
