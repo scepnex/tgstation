@@ -638,3 +638,10 @@
 	icon_state = "lean"
 	list_reagents = list(/datum/reagent/consumable/lean = 20)
 	random_sprite = FALSE
+
+
+/obj/item/reagent_containers/food/drinks/bottle/chartreuse
+	name = "TEST Chartreuse"
+	desc = "Aah, chartreuse."
+	icon_state = "vodkabottle"
+	list_reagents = list(/datum/reagent/consumable/ethanol/chartreuse = 100)
